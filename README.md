@@ -1,5 +1,4 @@
 # ARG
-![img1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRuSdFNn6K4GF3SBkKJfl-Xj6BijluOhYAA&s)
 ## ARG là gì?
 ### Trò chơi thực tế thay thế ( ARG ) là một câu chuyện tương tác được kết nối mạng , sử dụng thế giới thực làm nền tảng và sử dụng phương pháp kể chuyện đa phương tiện để truyền tải một câu chuyện có thể thay đổi theo ý tưởng hoặc hành động của người chơi.
 ![img2](https://media.newyorker.com/photos/59a872860da97a61599cf091/master/pass/Barron-Petscop-2.jpg)
